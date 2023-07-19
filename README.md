@@ -73,6 +73,11 @@ Feel free to customize the code further to add additional features or enhancemen
 
 - Easy to integrate into any website or project.
 
+
+## Deployment Status
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/51406fdb-205e-485c-a57e-af5e4ea6e687/deploy-status)](https://app.netlify.com/sites/kanasu-image-transition/deploys)
+
 ## Contributing
 
 Contributions are always welcome!
